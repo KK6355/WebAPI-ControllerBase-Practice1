@@ -4,3 +4,5 @@ GET {{WebAPI_ControllerBase_Practice1_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{WebAPI_ControllerBase_Practice1_HostAddress}}/pizza/
+Accept: aaplication/json
